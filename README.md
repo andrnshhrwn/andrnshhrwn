@@ -8,7 +8,7 @@ I'm a dedicated undergraduate student majoring in Informatics Engineering with a
 * 🌱 I’m currently learning **React, Next.js**
 * 👯 I’m looking to collaborate on open source projects related to web development
 * 💬 Ask me about **JavaScript / TypeScript**
-* 📫 How to reach me: **email@anda.com**
+* 📫 How to reach me: **andriansahherawan@anda.com**
 * ⚡ Fun fact: I love programming
 
 ---
