@@ -4,7 +4,7 @@
 
 I'm a dedicated undergraduate student majoring in Informatics Engineering with a strong passion for web development, particularly frontend design. My journey into development has been an exciting learning experience where I constantly hone my skills to become a proficient frontend developer. With every line of code, I strive to create visually appealing, user-friendly, and memorable websites. I'm always excited to explore new technologies, dive into AI and machine learning, and bring creative ideas to life through code.
 
-* 🔭 I’m currently working on [Nama Project]
+* 🔭 I’m currently working on some project.
 * 🌱 I’m currently learning **React, Next.js**
 * 👯 I’m looking to collaborate on open source projects related to web development
 * 💬 Ask me about **JavaScript / TypeScript**
